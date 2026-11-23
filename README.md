@@ -6,7 +6,6 @@ A collection of physics simulation projects.
 
 A 2D solar-system simulation built with Python and Pygame.
 
-- [Project README](<Solar System/README.md>)
-<video src="Solar%20System/assets/demo.mp4" controls width="640"></video>
+https://github.com/user-attachments/assets/04353c3a-0de8-4160-922c-d41b038ddb77
 
-[Open the demo video](<Solar System/assets/demo.mp4>)
+---
