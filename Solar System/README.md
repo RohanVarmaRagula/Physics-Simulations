@@ -2,6 +2,12 @@
 
 A 2D solar-system simulation built with Python and Pygame. It models gravity between the Sun and planets, displays orbital traces, and lets you zoom and pan around the scene.
 
+## Demo
+
+<video src="assets/demo.mp4" controls width="640"></video>
+
+[Open the demo video](assets/demo.mp4)
+
 ## Requirements
 
 - Python 3.9 or later
