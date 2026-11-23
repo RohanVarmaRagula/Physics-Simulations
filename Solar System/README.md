@@ -4,9 +4,7 @@ A 2D solar-system simulation built with Python and Pygame. It models gravity bet
 
 ## Demo
 
-<video src="assets/demo.mp4" controls width="640"></video>
-
-[Open the demo video](assets/demo.mp4)
+https://github.com/user-attachments/assets/04353c3a-0de8-4160-922c-d41b038ddb77
 
 ## Requirements
 
