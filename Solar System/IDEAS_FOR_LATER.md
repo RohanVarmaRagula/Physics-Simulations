@@ -1,0 +1,4 @@
+- impl physics for making the orbits elliptical
+- Z Axis
+- Sun's light and shadow on the planets
+- zoom based on cursor position
